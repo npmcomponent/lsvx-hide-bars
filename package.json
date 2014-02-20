@@ -1,0 +1,14 @@
+{
+  "name": "lsvx-hide-bars",
+  "description": "Hide the scrollbars on any element.",
+  "version": "0.1.0",
+  "keywords": [
+    "hide",
+    "scrollbars",
+    "scroll",
+    "bar"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
